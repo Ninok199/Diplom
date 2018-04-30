@@ -18,6 +18,8 @@
         </activity>
 
         <activity android:name=".ConfigurationActivity"></activity>
+        <activity android:name=".ChoiceLevelActivity"></activity>
+        <activity android:name=".ChoiceModeActivity"></activity>
     </application>
 
 </manifest>
