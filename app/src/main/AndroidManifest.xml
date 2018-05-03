@@ -22,7 +22,7 @@
         <activity android:name=".ChoiceModeActivity"></activity>
         <activity android:name=".AboutAppActivity"></activity>
         <activity android:name=".ChangeViewActivity"></activity>
-        <activity android:name=".ConfigurationActivityListener"></activity>
-    </application>
 
+    </application>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 </manifest>
